@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CLoop::OnInit():CLoop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_blinky-&gt;_moving">
+            </PersistentString>
+            <PersistentString
+               value = "_clyde-&gt;_moving">
+            </PersistentString>
+            <PersistentString
+               value = "_inky-&gt;_moving">
+            </PersistentString>
+            <PersistentString
+               value = "_pinky-&gt;_moving">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CLoop::OnLoop():CLoop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "CEnemy::chooseDirection(int, int):CEnemy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;_direction">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
