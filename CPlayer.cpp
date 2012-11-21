@@ -107,7 +107,7 @@ void CPlayer::resetDots()
 int CPlayer::sign(int v)
 {
     // left to change pacman speed for testing
-    return v > 0 ? 2 : (v < 0 ? -2 : 0);
+    return v > 0 ? 4 : (v < 0 ? -4 : 0);
 }
 
 void CPlayer::consumeFood()
