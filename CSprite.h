@@ -22,7 +22,7 @@ public:
     void Draw(SDL_Surface* dest);
     
 private:
-    SDL_Surface* _surface = NULL;
+    SDL_Surface* _surface;
     SDL_Rect pos;
 };
 

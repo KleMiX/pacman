@@ -23,7 +23,7 @@ public:
     
 private:
     SDL_Surface* _surface;
-    TTF_Font* _font = NULL;
+    TTF_Font* _font;
     SDL_Rect pos;
     SDL_Color color;
 };
